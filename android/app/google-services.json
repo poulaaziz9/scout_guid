@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872400785685",
+    "firebase_url": "https://scouting-guide.firebaseio.com",
+    "project_id": "scouting-guide",
+    "storage_bucket": "scouting-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872400785685:android:b1246f64b3874f1994591c",
+        "android_client_info": {
+          "package_name": "com.example.scout_guid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872400785685-glnd3m767hkjsbjrqacbto812f8gc2th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHQGYtpvamBmxqnRiD_7R0l0LGwbI9a4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872400785685-glnd3m767hkjsbjrqacbto812f8gc2th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
